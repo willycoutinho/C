@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-#include <ctype>
+#include <ctype.h>
 #include <time.h>
 
 //Chamar arquivos secundários
