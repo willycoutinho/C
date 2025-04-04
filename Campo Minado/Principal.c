@@ -63,7 +63,8 @@ jogo.est = 1;
 //bool partida =1;
 while( jogo.est == 1){
     system("cls");
-    printf("Minas ao seu redor: %d\n", minas_proximas(pos[0],pos[1]));
+    printf("Minas ao seu redor: %d\n", 
+    minas_proximas(pos[0],pos[1]));
     atualiza_jogador();
     jogo.cmd = toupper(getche());
     if(jogo.cmd == 'K')
