@@ -1,5 +1,5 @@
 //Inserir Biliotecas
-#include <stdio.h&gt>
+#include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
 #include <ctype>
