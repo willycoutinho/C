@@ -6,8 +6,8 @@
 #include <time.h>
 
 //Chamar arquivos secundários
-#include "CampoMinado.h"
-#include "Ranking.h"
+#include "CampoMinado.c"
+#include "Ranking.c"
 
 #define linhas 15
 #define colunas 15
