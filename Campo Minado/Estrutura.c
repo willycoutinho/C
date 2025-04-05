@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <ctype.h>
-#include <t0ime.h>
+#include <time.h>
 
 //Variáveis Globais
 #define n_linhas 15
@@ -108,7 +108,7 @@ if(campo[x][y] == 3){
         }
         printf("|\n");
     }
-    printf(&quot;Pressione ENTER para continuar\n&quot;);
+    printf("Pressione ENTER para continuar\n");
     getchar();
     return 0;
 }
