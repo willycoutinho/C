@@ -69,7 +69,7 @@ if(x-1 >= 0){
     qtd++;
 }
 
-if(x+1 &lt;= n_linhas-1){
+if(x+1 <= n_linhas-1){
     if(y-1 >= 0 && campo[x+1][y-1] == 3)
     qtd++;
     if(y+1 <= n_colunas-1 && campo[x+1][y+1] == 3)
